@@ -1,9 +1,0 @@
-Thêm icon cho thanh title:
-- lấy icon từ figma xuống. Sau đó đưa lên trang: https://realfavicongenerator.net/
-- Trang này giúp tạo Favicon hỗ trợ nền trong suốt
-- Nhớ kiểm tra các đường dẫn thay cho đúng tên thư mục để tránh không hiển thị hình ảnh
-
-Thêm font cho toàn bộ trang web:
-- fonts này là "Gordita", download về zip, xong up lên https://transfonter.org/ chuyển đổi
-- sau khi chuyển đổi copy toàn bộ fonts bỏ vào assets, sau đó link file css đó vào trang html, bên css chính dùng font-family là "Gordita" font-family: Gordita, sans-serif;
-
